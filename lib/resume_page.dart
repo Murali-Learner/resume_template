@@ -5,11 +5,11 @@ import 'package:resume_template/data.dart';
 class MyResumePage extends StatelessWidget {
   const MyResumePage({super.key});
 
-  @override
+  @override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
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Resume Maker'),
+        title: Text('Resume For me'),
       ),
       body: FlutterResumeTemplate(
         data: data,
