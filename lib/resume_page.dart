@@ -9,7 +9,7 @@ class MyResumePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('My Resume'),
+        title: Text('Resume Maker'),
       ),
       body: FlutterResumeTemplate(
         data: data,
